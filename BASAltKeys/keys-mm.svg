@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="1080"
-   height="608"
-   viewBox="0 0 1080 608"
+   width="1078.5162"
+   height="378.01645"
+   viewBox="0 0 1078.5163 378.01645"
    version="1.1"
    id="svg1"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -81,7 +81,7 @@
     <linearGradient
        id="linearGradient15-4"
        gradientTransform="scale(1.0177831,0.98252758)"
-       x1="46.018979"
+       x1="46.018978"
        y1="-131.68762"
        x2="247.84036"
        y2="-131.68762"
@@ -118,7 +118,7 @@
        gradientTransform="translate(-275.05015,20.859483)"
        x1="395.17908"
        y1="244.77017"
-       x2="558.85121"
+       x2="558.8512"
        y2="244.77017" />
     <linearGradient
        xlink:href="#linearGradient7"
@@ -127,7 +127,7 @@
        gradientTransform="translate(-197.03155,-126.43128)"
        x1="395.17908"
        y1="244.77017"
-       x2="558.85121"
+       x2="558.8512"
        y2="244.77017" />
     <linearGradient
        xlink:href="#linearGradient7"
@@ -136,177 +136,380 @@
        gradientTransform="translate(-275.05015,20.859483)"
        x1="395.17908"
        y1="244.77017"
-       x2="558.85121"
+       x2="558.8512"
        y2="244.77017" />
+    <linearGradient
+       xlink:href="#linearGradient11"
+       id="linearGradient12-6-7"
+       x1="171.75716"
+       y1="135.52254"
+       x2="402.01474"
+       y2="143.56331"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       xlink:href="#linearGradient21"
+       id="linearGradient17-8-2"
+       x1="116.7561"
+       y1="-152.53354"
+       x2="151.99487"
+       y2="134.46323"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient15-4-0"
+       gradientTransform="scale(1.0177831,0.98252758)"
+       x1="46.018978"
+       y1="-131.68762"
+       x2="247.84036"
+       y2="-131.68762"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         style="stop-color:#c7c1bb;stop-opacity:0.28478262;"
+         offset="0"
+         id="stop16-8" />
+      <stop
+         style="stop-color:#3c3732;stop-opacity:0;"
+         offset="0.04785478"
+         id="stop17-8" />
+      <stop
+         style="stop-color:#3c3732;stop-opacity:1;"
+         offset="0.94389439"
+         id="stop18-5" />
+      <stop
+         style="stop-color:#5a5a5a;stop-opacity:1;"
+         offset="1"
+         id="stop22" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient7"
+       id="linearGradient3"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-275.05015,20.859483)"
+       x1="395.17908"
+       y1="244.77017"
+       x2="558.8512"
+       y2="244.77017" />
+    <linearGradient
+       xlink:href="#linearGradient7"
+       id="linearGradient5"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-197.03155,-126.43128)"
+       x1="395.17908"
+       y1="244.77017"
+       x2="558.8512"
+       y2="244.77017" />
+    <linearGradient
+       xlink:href="#linearGradient7"
+       id="linearGradient6"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-267.79203,23.827013)"
+       x1="395.22894"
+       y1="241.91414"
+       x2="558.80133"
+       y2="247.62621" />
   </defs>
   <g
-     id="layer1">
+     id="g18-2"
+     transform="matrix(0.934536,0,0,0.934536,613.97258,516.25106)">
     <g
-       id="g18-2"
-       transform="matrix(0.934536,0,0,0.934536,613.97258,624.56591)">
-      <g
-         id="g4-26"
-         transform="rotate(-8.1832879,-4545.6214,5062.746)">
-        <rect
-           style="fill:#181818;fill-opacity:1;stroke-width:2.27927;paint-order:stroke fill markers"
-           id="rect1-3-7-1"
-           width="227.25035"
-           height="240.21143"
-           x="91.570015"
-           y="166.72798"
-           ry="42.009769"
-           rx="48.150227" />
-        <rect
-           style="display:inline;fill:url(#linearGradient18);stroke-width:1.75748;paint-order:stroke fill markers"
-           id="rect1-0-0"
-           width="163.67213"
-           height="198.29507"
-           x="120.12889"
-           y="166.48213"
-           ry="34.679157"
-           rx="34.679157" />
-        <text
-           xml:space="preserve"
-           style="font-size:78.4992px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ec3500;fill-opacity:1;stroke-width:11.4967;paint-order:stroke fill markers;-inkscape-font-specification:'MartianMono Nerd Font Mono';font-family:'MartianMono Nerd Font Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+       id="g4-26-6"
+       transform="rotate(-8.1832879,-1179.3177,5283.8178)">
+      <rect
+         style="fill:#181818;fill-opacity:1;stroke-width:2.27927;paint-order:stroke fill markers"
+         id="rect1-3-7-1-3"
+         width="227.25035"
+         height="240.21143"
+         x="91.570015"
+         y="166.72798"
+         ry="42.009769"
+         rx="48.150227" />
+      <rect
+         style="display:inline;fill:url(#linearGradient3);stroke-width:1.75748;paint-order:stroke fill markers"
+         id="rect1-0-0-8"
+         width="163.67213"
+         height="198.29507"
+         x="120.12889"
+         y="166.48213"
+         ry="34.679157"
+         rx="34.679157" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:78.4992px;font-family:'MartianMono Nerd Font Mono';-inkscape-font-specification:'MartianMono Nerd Font Mono';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ff4603;fill-opacity:1;stroke-width:11.4967;paint-order:stroke fill markers"
+         x="151.30038"
+         y="264.11017"
+         id="text9-6-5"><tspan
+           id="tspan9-1-6"
            x="151.30038"
            y="264.11017"
-           id="text9-6"><tspan
-             id="tspan9-1"
-             x="151.30038"
-             y="264.11017"
-             style="fill:#ec3500;fill-opacity:1;stroke-width:11.4967;-inkscape-font-specification:'MartianMono Nerd Font Mono';font-family:'MartianMono Nerd Font Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">B</tspan></text>
-      </g>
-      <g
-         id="g4-26-7"
-         transform="rotate(-8.1832879,-4656.3433,-6636.5828)">
-        <rect
-           style="fill:#181818;fill-opacity:1;stroke-width:2.27927;paint-order:stroke fill markers"
-           id="rect1-3-7-1-2"
-           width="227.25035"
-           height="240.21143"
-           x="91.570015"
-           y="166.72798"
-           ry="42.009769"
-           rx="48.150227" />
-        <rect
-           style="display:inline;fill:url(#linearGradient2);stroke-width:1.75748;paint-order:stroke fill markers"
-           id="rect1-0-0-7"
-           width="163.67213"
-           height="198.29507"
-           x="120.12889"
-           y="166.48213"
-           ry="34.679157"
-           rx="34.679157" />
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:78.4992px;font-family:'MartianMono Nerd Font Mono';-inkscape-font-specification:'MartianMono Nerd Font Mono';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ec3500;fill-opacity:1;stroke-width:11.4967;paint-order:stroke fill markers"
-           x="151.30038"
-           y="264.11017"
-           id="text9-6-2"><tspan
-             id="tspan9-1-2"
-             x="151.30038"
-             y="264.11017"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MartianMono Nerd Font Mono';-inkscape-font-specification:'MartianMono Nerd Font Mono';fill:#ec3500;fill-opacity:1;stroke-width:11.4967">B</tspan></text>
-      </g>
-      <g
-         id="g4-2-7-5"
-         transform="translate(-454.55557,-638.63288)">
-        <rect
-           style="fill:url(#linearGradient12-6);stroke-width:2.295;paint-order:stroke fill markers"
-           id="rect1-3-7-8-8-9"
-           width="230.39789"
-           height="240.21143"
-           x="171.68698"
-           y="19.437214"
-           ry="42.009769"
-           rx="48.817135"
-           transform="rotate(25.38328)" />
-        <rect
-           style="display:inline;fill:url(#linearGradient19);stroke-width:1.75748;paint-order:stroke fill markers"
-           id="rect1-0-9-4-4"
-           width="163.67213"
-           height="198.29507"
-           x="198.14749"
-           y="19.191364"
-           ry="34.679157"
-           rx="34.679157"
-           transform="rotate(25.38328)" />
-        <text
-           xml:space="preserve"
-           style="font-size:78.4992px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ec3500;fill-opacity:1;stroke-width:11.4967;paint-order:stroke fill markers;-inkscape-font-specification:'MartianMono Nerd Font';font-family:'MartianMono Nerd Font';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MartianMono Nerd Font Mono';-inkscape-font-specification:'MartianMono Nerd Font Mono';fill:#ff4603;fill-opacity:1;stroke-width:11.4967">B</tspan></text>
+    </g>
+    <g
+       id="g4-2-7-5-1"
+       transform="translate(-451.74657,-157.22145)">
+      <rect
+         style="fill:url(#linearGradient12-6-7);stroke-width:2.295;paint-order:stroke fill markers"
+         id="rect1-3-7-8-8-9-1"
+         width="230.39789"
+         height="240.21143"
+         x="171.68698"
+         y="19.437214"
+         ry="42.009769"
+         rx="48.817135"
+         transform="rotate(25.38328)" />
+      <rect
+         style="display:inline;fill:url(#linearGradient5);stroke-width:1.75748;paint-order:stroke fill markers"
+         id="rect1-0-9-4-4-5"
+         width="163.67213"
+         height="198.29507"
+         x="198.14749"
+         y="19.191364"
+         ry="34.679157"
+         rx="34.679157"
+         transform="rotate(25.38328)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:78.4992px;font-family:'MartianMono Nerd Font';-inkscape-font-specification:'MartianMono Nerd Font';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ff4603;fill-opacity:1;stroke-width:11.4967;paint-order:stroke fill markers"
+         x="229.31898"
+         y="116.8194"
+         id="text9-7-5-9-9"
+         transform="rotate(25.38328)"><tspan
+           id="tspan9-3-0-0-8"
            x="229.31898"
            y="116.8194"
-           id="text9-7-5-9"
-           transform="rotate(25.38328)"><tspan
-             id="tspan9-3-0-0"
-             x="229.31898"
-             y="116.8194"
-             style="fill:#ec3500;fill-opacity:1;stroke-width:11.4967;-inkscape-font-specification:'MartianMono Nerd Font';font-family:'MartianMono Nerd Font';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">A</tspan></text>
-      </g>
-      <g
-         id="g4-2-6-9"
-         transform="rotate(-25.521635,-1211.1659,398.90276)">
-        <rect
-           style="fill:#181818;fill-opacity:1;stroke-width:2.295;paint-order:stroke fill markers"
-           id="rect1-3-7-8-1-1"
-           width="230.39789"
-           height="240.21143"
-           x="88.422478"
-           y="166.72798"
-           ry="42.009769"
-           rx="48.817135" />
-        <rect
-           style="display:inline;fill:url(#linearGradient13-0);stroke-width:1.75748;paint-order:stroke fill markers"
-           id="rect1-0-9-5-7"
-           width="163.67213"
-           height="198.29507"
-           x="127.38701"
-           y="169.44966"
-           ry="34.679157"
-           rx="34.679157" />
-        <text
-           xml:space="preserve"
-           style="font-size:78.4992px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ec3500;fill-opacity:1;stroke-width:11.4967;paint-order:stroke fill markers;-inkscape-font-specification:'MartianMono Nerd Font Mono';font-family:'MartianMono Nerd Font Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MartianMono Nerd Font';-inkscape-font-specification:'MartianMono Nerd Font';fill:#ff4603;fill-opacity:1;stroke-width:11.4967">A</tspan></text>
+    </g>
+    <g
+       id="g4-2-6-9-4"
+       transform="rotate(-25.521635,-146.92745,633.40693)">
+      <rect
+         style="fill:#181818;fill-opacity:1;stroke-width:2.295;paint-order:stroke fill markers"
+         id="rect1-3-7-8-1-1-8"
+         width="230.39789"
+         height="240.21143"
+         x="88.422478"
+         y="166.72798"
+         ry="42.009769"
+         rx="48.817135" />
+      <rect
+         style="display:inline;fill:url(#linearGradient6);stroke-width:1.75748;paint-order:stroke fill markers"
+         id="rect1-0-9-5-7-1"
+         width="163.67213"
+         height="198.29507"
+         x="127.38701"
+         y="169.44966"
+         ry="34.679157"
+         rx="34.679157" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:78.4992px;font-family:'MartianMono Nerd Font Mono';-inkscape-font-specification:'MartianMono Nerd Font Mono';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ff4603;fill-opacity:1;stroke-width:11.4967;paint-order:stroke fill markers"
+         x="158.5585"
+         y="267.0777"
+         id="text9-7-54-7-0"><tspan
+           id="tspan9-3-7-1-3"
            x="158.5585"
            y="267.0777"
-           id="text9-7-54-7"><tspan
-             id="tspan9-3-7-1"
-             x="158.5585"
-             y="267.0777"
-             style="fill:#ec3500;fill-opacity:1;stroke-width:11.4967;-inkscape-font-specification:'MartianMono Nerd Font Mono';font-family:'MartianMono Nerd Font Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">S</tspan></text>
-      </g>
-      <g
-         id="g4-2-2-3-1"
-         transform="rotate(10.865771,1996.1305,833.69723)">
-        <rect
-           style="fill:url(#linearGradient17-8);stroke-width:2.57103;paint-order:stroke fill markers"
-           id="rect1-3-7-8-5-1-5"
-           width="289.15198"
-           height="240.21143"
-           x="-10.200473"
-           y="-129.14087"
-           ry="42.009769"
-           rx="61.266064" />
-        <rect
-           style="display:inline;fill:url(#linearGradient15-4);stroke-width:1.96886;paint-order:stroke fill markers"
-           id="rect1-0-9-47-4-9"
-           width="205.4104"
-           height="198.29507"
-           x="46.837341"
-           y="-129.38672"
-           ry="34.679157"
-           rx="43.522739" />
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:68.4832px;font-family:'MartianMono Nerd Font';-inkscape-font-specification:'MartianMono Nerd Font';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ec3500;fill-opacity:1;stroke-width:11.4967;paint-order:stroke fill markers"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MartianMono Nerd Font Mono';-inkscape-font-specification:'MartianMono Nerd Font Mono';fill:#ff4603;fill-opacity:1;stroke-width:11.4967">S</tspan></text>
+    </g>
+    <g
+       id="g4-2-2-3-1-0"
+       transform="rotate(10.865771,-533.36008,1089.1705)">
+      <rect
+         style="fill:url(#linearGradient17-8-2);stroke-width:2.57103;paint-order:stroke fill markers"
+         id="rect1-3-7-8-5-1-5-4"
+         width="289.15198"
+         height="240.21143"
+         x="-10.200473"
+         y="-129.14087"
+         ry="42.009769"
+         rx="61.266064" />
+      <rect
+         style="display:inline;fill:url(#linearGradient15-4-0);stroke-width:1.96886;paint-order:stroke fill markers"
+         id="rect1-0-9-47-4-9-4"
+         width="205.4104"
+         height="198.29507"
+         x="46.837341"
+         y="-129.38672"
+         ry="34.679157"
+         rx="43.522739" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:68.4832px;font-family:'MartianMono Nerd Font';-inkscape-font-specification:'MartianMono Nerd Font';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ff4603;fill-opacity:1;stroke-width:11.4967;paint-order:stroke fill markers"
+         x="69.825912"
+         y="-41.710518"
+         id="text9-7-4-9-7-4"><tspan
+           id="tspan9-3-4-2-7-4"
            x="69.825912"
            y="-41.710518"
-           id="text9-7-4-9-7"><tspan
-             id="tspan9-3-4-2-7"
-             x="69.825912"
-             y="-41.710518"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:68.4832px;font-family:'MartianMono Nerd Font';-inkscape-font-specification:'MartianMono Nerd Font';fill:#ec3500;fill-opacity:1;stroke-width:11.4967">Alt</tspan></text>
-      </g>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:68.4832px;font-family:'MartianMono Nerd Font';-inkscape-font-specification:'MartianMono Nerd Font';fill:#ff4603;fill-opacity:1;stroke-width:11.4967">Alt</tspan></text>
+    </g>
+  </g>
+  <g
+     id="g6">
+    <g
+       id="g4-26"
+       transform="matrix(0.92502036,-0.13302207,0.13302207,0.92502036,-102.73886,-40.241625)">
+      <rect
+         style="fill:#181818;fill-opacity:1;stroke-width:2.27927;paint-order:stroke fill markers"
+         id="rect1-3-7-1"
+         width="227.25035"
+         height="240.21143"
+         x="91.570015"
+         y="166.72798"
+         ry="42.009769"
+         rx="48.150227" />
+      <rect
+         style="display:inline;fill:url(#linearGradient18);stroke-width:1.75748;paint-order:stroke fill markers"
+         id="rect1-0-0"
+         width="163.67213"
+         height="198.29507"
+         x="120.12889"
+         y="166.48213"
+         ry="34.679157"
+         rx="34.679157" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:78.4992px;font-family:'MartianMono Nerd Font Mono';-inkscape-font-specification:'MartianMono Nerd Font Mono';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:11.4967;paint-order:stroke fill markers"
+         x="151.30038"
+         y="264.11017"
+         id="text9-6"><tspan
+           id="tspan9-1"
+           x="151.30038"
+           y="264.11017"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MartianMono Nerd Font Mono';-inkscape-font-specification:'MartianMono Nerd Font Mono';fill:#ffffff;fill-opacity:1;stroke-width:11.4967">B</tspan></text>
+    </g>
+    <g
+       id="g4-2-7-5"
+       transform="matrix(0.934536,0,0,0.934536,189.17404,-80.574357)">
+      <rect
+         style="fill:url(#linearGradient12-6);stroke-width:2.295;paint-order:stroke fill markers"
+         id="rect1-3-7-8-8-9"
+         width="230.39789"
+         height="240.21143"
+         x="171.68698"
+         y="19.437214"
+         ry="42.009769"
+         rx="48.817135"
+         transform="rotate(25.38328)" />
+      <rect
+         style="display:inline;fill:url(#linearGradient19);stroke-width:1.75748;paint-order:stroke fill markers"
+         id="rect1-0-9-4-4"
+         width="163.67213"
+         height="198.29507"
+         x="198.14749"
+         y="19.191364"
+         ry="34.679157"
+         rx="34.679157"
+         transform="rotate(25.38328)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:78.4992px;font-family:'MartianMono Nerd Font';-inkscape-font-specification:'MartianMono Nerd Font';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:11.4967;paint-order:stroke fill markers"
+         x="229.31898"
+         y="116.8194"
+         id="text9-7-5-9"
+         transform="rotate(25.38328)"><tspan
+           id="tspan9-3-0-0"
+           x="229.31898"
+           y="116.8194"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MartianMono Nerd Font';-inkscape-font-specification:'MartianMono Nerd Font';fill:#ffffff;fill-opacity:1;stroke-width:11.4967">A</tspan></text>
+    </g>
+    <g
+       id="g4-2-6-9"
+       transform="matrix(0.84334646,-0.4026466,0.4026466,0.84334646,342.91008,64.954991)">
+      <rect
+         style="fill:#181818;fill-opacity:1;stroke-width:2.295;paint-order:stroke fill markers"
+         id="rect1-3-7-8-1-1"
+         width="230.39789"
+         height="240.21143"
+         x="88.422478"
+         y="166.72798"
+         ry="42.009769"
+         rx="48.817135" />
+      <rect
+         style="display:inline;fill:url(#linearGradient13-0);stroke-width:1.75748;paint-order:stroke fill markers"
+         id="rect1-0-9-5-7"
+         width="163.67213"
+         height="198.29507"
+         x="127.38701"
+         y="169.44966"
+         ry="34.679157"
+         rx="34.679157" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:78.4992px;font-family:'MartianMono Nerd Font Mono';-inkscape-font-specification:'MartianMono Nerd Font Mono';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:11.4967;paint-order:stroke fill markers"
+         x="158.5585"
+         y="267.0777"
+         id="text9-7-54-7"><tspan
+           id="tspan9-3-7-1"
+           x="158.5585"
+           y="267.0777"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MartianMono Nerd Font Mono';-inkscape-font-specification:'MartianMono Nerd Font Mono';fill:#ffffff;fill-opacity:1;stroke-width:11.4967">S</tspan></text>
+    </g>
+    <g
+       id="g4-2-2-3-1"
+       transform="matrix(0.91778118,0.17616824,-0.17616824,0.91778118,794.28837,178.56471)">
+      <rect
+         style="fill:url(#linearGradient17-8);stroke-width:2.57103;paint-order:stroke fill markers"
+         id="rect1-3-7-8-5-1-5"
+         width="289.15198"
+         height="240.21143"
+         x="-10.200473"
+         y="-129.14087"
+         ry="42.009769"
+         rx="61.266064" />
+      <rect
+         style="display:inline;fill:url(#linearGradient15-4);stroke-width:1.96886;paint-order:stroke fill markers"
+         id="rect1-0-9-47-4-9"
+         width="205.4104"
+         height="198.29507"
+         x="46.837341"
+         y="-129.38672"
+         ry="34.679157"
+         rx="43.522739" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:68.4832px;font-family:'MartianMono Nerd Font';-inkscape-font-specification:'MartianMono Nerd Font';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:11.4967;paint-order:stroke fill markers"
+         x="69.825912"
+         y="-41.710518"
+         id="text9-7-4-9-7"><tspan
+           id="tspan9-3-4-2-7"
+           x="69.825912"
+           y="-41.710518"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:68.4832px;font-family:'MartianMono Nerd Font';-inkscape-font-specification:'MartianMono Nerd Font';fill:#ffffff;fill-opacity:1;stroke-width:11.4967">Alt</tspan></text>
+    </g>
+  </g>
+  <g
+     id="layer1"
+     transform="translate(0,-108.31485)">
+    <g
+       id="g4-26-7"
+       transform="matrix(0.92502036,-0.13302207,0.13302207,0.92502036,1448.2339,-59.396054)">
+      <rect
+         style="fill:#181818;fill-opacity:1;stroke-width:2.27927;paint-order:stroke fill markers"
+         id="rect1-3-7-1-2"
+         width="227.25035"
+         height="240.21143"
+         x="91.570015"
+         y="166.72798"
+         ry="42.009769"
+         rx="48.150227" />
+      <rect
+         style="display:inline;fill:url(#linearGradient2);stroke-width:1.75748;paint-order:stroke fill markers"
+         id="rect1-0-0-7"
+         width="163.67213"
+         height="198.29507"
+         x="120.12889"
+         y="166.48213"
+         ry="34.679157"
+         rx="34.679157" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:78.4992px;font-family:'MartianMono Nerd Font Mono';-inkscape-font-specification:'MartianMono Nerd Font Mono';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ec3500;fill-opacity:1;stroke-width:11.4967;paint-order:stroke fill markers"
+         x="151.30038"
+         y="264.11017"
+         id="text9-6-2"><tspan
+           id="tspan9-1-2"
+           x="151.30038"
+           y="264.11017"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MartianMono Nerd Font Mono';-inkscape-font-specification:'MartianMono Nerd Font Mono';fill:#ec3500;fill-opacity:1;stroke-width:11.4967">B</tspan></text>
     </g>
   </g>
 </svg>
